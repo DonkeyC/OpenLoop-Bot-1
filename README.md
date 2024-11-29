@@ -22,7 +22,7 @@ OpenLoop Network is a decentralized wireless network built to enhance Internet s
 
 if you already have account you can put `access-token` to `token.txt`,
 
-put your proxy in file `proxy.txt` format `http://username:pass@ip:port`
+put your proxy in file `proxies.txt` format `http://username:pass@ip:port`
 
 ![intro](image-1.png)
 
