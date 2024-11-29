@@ -12,5 +12,5 @@ export const banner = `
        ██║██║╚██╗██║╚════██║██║██║  ██║██╔══╝  ██╔══██╗    
        ██║██║ ╚████║███████║██║██████╔╝███████╗██║  ██║    
        ╚═╝╚═╝  ╚═══╝╚══════╝╚═╝╚═════╝ ╚══════╝╚═╝  ╚═╝    
-                   FISHING FRENZY AUTO - BOT                
+                   OPEN-LOOP AUTO - BOT                
      📢  Telegram Channel: https://t.me/AirdropInsiderID `
