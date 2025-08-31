@@ -12,7 +12,7 @@ OpenLoop Network is a decentralized wireless network built to enhance Internet s
 - **Auto Reff**
 - **Support Multy Accounts**
 - **Support Proxy**
-
+xx
 ## **Requirements**
 
 - **Node.js**: Ensure you have Node.js installed.
